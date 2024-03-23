@@ -1,0 +1,28 @@
+# RazQAcidWater
+
+# Start Damage
+initialDamage: 1
+
+# Maximum amount of damage per tick
+maxDamage: 10
+
+# Should messages be displayed?
+enableMessages: true
+
+# Water damage multiplier
+damageMultiplier: 1.0
+
+# Messages
+messages:
+  damage5: "&c5"
+  damage4: "&e4"
+  damage3: "&63"
+  damage2: "&a2"
+  damage1: "&b1"
+
+# Percentage thresholds for messages
+messageThresholds:
+  damage4Threshold: 20
+  damage3Threshold: 40
+  damage2Threshold: 60
+  damage1Threshold: 80

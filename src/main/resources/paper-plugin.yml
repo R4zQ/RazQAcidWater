@@ -1,0 +1,4 @@
+name: RazQAcidWater
+version: '${project.version}'
+main: be.razq.razqacidwater.RazQAcidWater
+api-version: '1.20'
